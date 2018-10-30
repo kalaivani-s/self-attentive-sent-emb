@@ -39,6 +39,22 @@ Parameters:
 
 --lr        - Learning rate
 
+## Salient features
+Features that were found salient by the attention layer for different social groups
+
+### Female
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Female")
+
+### Male
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Male")
+
+### Ages 18-24
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Ages 18-24")
+
+### Ages 50+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Ages 50+")
+
+
 
 Reference:
 1) Lin, Z., Feng, M., Santos, C. N. D., Yu, M., Xiang, B., Zhou, B., & Bengio, Y. (2017). A structured self-attentive sentence embedding. arXiv preprint arXiv:1703.03130.
