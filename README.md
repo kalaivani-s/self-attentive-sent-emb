@@ -1,6 +1,6 @@
 # Self-Attentive Sentence Embedding
 
-This is a PyTorch implementation of [A structured self-attentive sentence embedding](https://arxiv.org/pdf/1703.03130.pdf) by Lin et al 2017. This approach has been applied to Author profiling [PAN 2015](https://pan.webis.de/clef15/pan15-web/author-profiling.html) and [2016](https://pan.webis.de/clef16/pan16-web/author-profiling.html) tasks. The data can be obtained from the above links. This implementations handles gender and age group classification.
+This is a PyTorch implementation of [A structured self-attentive sentence embedding](https://arxiv.org/pdf/1703.03130.pdf) by Lin et al 2017. This approach has been applied to Author profiling [PAN 2015](https://pan.webis.de/clef15/pan15-web/author-profiling.html) and [2016](https://pan.webis.de/clef16/pan16-web/author-profiling.html) tasks. The data can be obtained from the above links. This implementation handles gender and age group classification.
 
 The approach uses [100-dimensional Glove word embeddings](https://nlp.stanford.edu/projects/glove/) to initialize the word embedding layer. 
 
