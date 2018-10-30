@@ -263,7 +263,7 @@ def main(argv):
   criterion = nn.CrossEntropyLoss(weights) 
 
   # Train with early stopping
-  #train_with_early_stopping(X_train, y_train, X_val, y_val, model, optimizer, criterion, vocab, nepoch, batchsz, num_classes, exptdir, mode)
+  train_with_early_stopping(X_train, y_train, X_val, y_val, model, optimizer, criterion, vocab, nepoch, batchsz, num_classes, exptdir, mode)
 
   # Load model at best validation loss and compute test accuracy
   state_files = os.listdir(exptdir)
