@@ -43,16 +43,16 @@ Parameters:
 Features that were found salient by the attention layer for different social groups
 
 ### Female
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Female")
+![alt text](https://github.com/kalaivani-s/self-attentive-sent-emb/blob/master/pan2015-female.jpg "Female")
 
 ### Male
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Male")
+![alt text](https://github.com/kalaivani-s/self-attentive-sent-emb/blob/master/pan2015-male.jpg "Male")
 
 ### Ages 18-24
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Ages 18-24")
+![alt text](https://github.com/kalaivani-s/self-attentive-sent-emb/blob/master/pan2015-age-18-24.jpg "Ages 18-24")
 
 ### Ages 50+
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Ages 50+")
+![alt text](https://github.com/kalaivani-s/self-attentive-sent-emb/blob/master/pan2015-age-50-xx.jpg "Ages 50+")
 
 
 
